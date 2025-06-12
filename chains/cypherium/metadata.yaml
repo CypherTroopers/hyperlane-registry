@@ -4,11 +4,12 @@ displayName: Cypherium
 domainId: 16166
 isTestnet: false
 name: cypherium
-nativeToken:
+nativeToken: CPH
   decimals: 18
   name: CypheriumChain
   symbol: CPH
 protocol: ethereum
 rpcUrls:
-  - http: https://make-cph-great-again.community
+   - http: https://pubnodes.cypherium.io
+   - http: https://make-cph-great-again.community
 technicalStack: other
